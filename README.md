@@ -1,2 +1,5 @@
 # google-homepage
 Leaning how to create and style a simple webpage
+From The Odin Project's [curriculum]
+(http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
